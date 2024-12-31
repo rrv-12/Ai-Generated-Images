@@ -1,0 +1,578 @@
+[
+  {
+    "scheme_name": "Agnipath Scheme",
+    "prompt1": "A young individual facing unemployment, eager to serve the nation but lacking opportunities.",
+    "prompt2": "The youth applying online for the Agnipath Scheme to join the armed forces on a short-term basis.",
+    "prompt3": "The individual gaining military experience, skills, and a pathway to future employment opportunities."
+  },
+  {
+    "scheme_name": "Mahila Samman Savings Certificate (MSSC)",
+    "prompt1": "A woman concerned about her financial security and looking for a safe investment option.",
+    "prompt2": "She is opening a Mahila Samman Savings Certificate account at a local post office with minimal paperwork.",
+    "prompt3": "The woman feeling confident as her savings grow securely, ensuring better financial stability."
+  },
+  {
+    "scheme_name": "PM Poshan Shakti Nirman Abhiyaan (PM-POSHAN)",
+    "prompt1": "School children in rural areas suffering from malnutrition affecting their learning abilities.",
+    "prompt2": "Implementation of midday meals in schools under PM-POSHAN, ensuring children receive nutritious food.",
+    "prompt3": "Healthy and attentive children actively participating in class, showing improved academic performance."
+  },
+  {
+    "scheme_name": "Strengthening Teaching-Learning and Results for States (STARS)",
+    "prompt1": "Students facing poor educational outcomes due to inadequate teaching resources.",
+    "prompt2": "Government enhancing education systems under STARS by training teachers and providing better materials.",
+    "prompt3": "Improved learning results with students performing better academically across the states."
+  },
+  {
+    "scheme_name": "Svamitva Yojana",
+    "prompt1": "Villagers lacking proper land ownership records, leading to disputes and insecurity.",
+    "prompt2": "Survey teams mapping village areas using advanced technology to issue property cards.",
+    "prompt3": "Villagers holding official property documents, feeling secure and empowered over their land."
+  },
+  {
+    "scheme_name": "Garib Kalyan Rojgar Abhiyaan",
+    "prompt1": "Migrant workers unemployed due to economic disruptions returning to their villages.",
+    "prompt2": "They enroll in the Garib Kalyan Rojgar Abhiyaan for immediate employment opportunities.",
+    "prompt3": "Workers engaged in local development projects, earning wages and improving village infrastructure."
+  },
+  {
+    "scheme_name": "PM Matsya Sampada Yojana (PMMSY)",
+    "prompt1": "Fishermen struggling with low income due to lack of modern equipment and facilities.",
+    "prompt2": "They apply for assistance under PMMSY to receive subsidies for better fishing infrastructure.",
+    "prompt3": "Fishermen increasing their catch and income, contributing to the growth of the fisheries sector."
+  },
+  {
+    "scheme_name": "PM Kisan Samman Nidhi (PM-KISAN)",
+    "prompt1": "Small and marginal farmers facing financial hardships and low crop yields.",
+    "prompt2": "Farmers registering for PM-KISAN to receive direct income support transferred to their bank accounts.",
+    "prompt3": "Farmers using the funds for seeds and inputs, leading to improved agricultural productivity."
+  },
+  {
+    "scheme_name": "Jal Jeevan Mission",
+    "prompt1": "Households in rural areas lacking access to clean drinking water.",
+    "prompt2": "Implementation of Jal Jeevan Mission to install tap water connections in homes.",
+    "prompt3": "Families enjoying clean and safe drinking water, leading to better health and hygiene."
+  },
+  {
+    "scheme_name": "Atal Bhujal Yojana (Atal Jal)",
+    "prompt1": "Communities facing water scarcity due to depleting groundwater levels.",
+    "prompt2": "Local groups participating in Atal Jal for sustainable groundwater management practices.",
+    "prompt3": "Improved water availability ensuring agricultural and domestic needs are met sustainably."
+  },
+  {
+    "scheme_name": "PM Kisan Urja Suraksha Evam Utthan Mahabhiyan (PM-KUSUM)",
+    "prompt1": "Farmers struggling with unreliable electricity supply for irrigation.",
+    "prompt2": "They apply for PM-KUSUM to install solar-powered pumps with government subsidies.",
+    "prompt3": "Farmers using solar pumps, reducing costs and increasing productivity with reliable irrigation."
+  },
+  {
+    "scheme_name": "PM Shram Yogi Mandhan (PM-SYM)",
+    "prompt1": "Unorganized workers worried about lack of financial security in old age.",
+    "prompt2": "They enroll in PM-SYM by contributing a minimal amount for a pension scheme.",
+    "prompt3": "Workers assured of a fixed monthly pension after retirement, leading to a secure future."
+  },
+  {
+    "scheme_name": "PM Annadata Aay Sanrakshan Abhiyan (PM-AASHA)",
+    "prompt1": "Farmers distressed due to low market prices for their produce.",
+    "prompt2": "Government agencies procuring crops at Minimum Support Prices under PM-AASHA.",
+    "prompt3": "Farmers receiving fair compensation, ensuring stable income and reduced financial stress."
+  },
+  {
+    "scheme_name": "Ayushman Bharat Yojana (AB PM-JAY)",
+    "prompt1": "Low-income families burdened by high medical expenses and lack of health insurance.",
+    "prompt2": "Families registering for Ayushman Bharat to receive health coverage up to ₹5 lakh per year.",
+    "prompt3": "They access cashless healthcare services, leading to improved health and financial protection."
+  },
+  {
+    "scheme_name": "Samagra Shiksha",
+    "prompt1": "Children lacking access to quality education due to inadequate school facilities.",
+    "prompt2": "Schools upgraded under Samagra Shiksha with better infrastructure and learning materials.",
+    "prompt3": "Students benefiting from enhanced education, leading to higher enrollment and retention rates."
+  },
+  {
+    "scheme_name": "PM Jan Vikas Karyakaram (PMJVK)",
+    "prompt1": "Minority communities facing socio-economic disadvantages and lack of infrastructure.",
+    "prompt2": "Implementation of PMJVK projects like schools and hospitals in minority-concentrated areas.",
+    "prompt3": "Communities experiencing improved living standards and greater inclusion in development."
+  },
+  {
+    "scheme_name": "Rashtriya Gram Swaraj Abhiyan (RGSA)",
+    "prompt1": "Local governance bodies lacking capacity for effective administration.",
+    "prompt2": "Training programs under RGSA enhancing skills of Panchayati Raj Institutions members.",
+    "prompt3": "Empowered local bodies delivering better services and governance at the village level."
+  },
+  {
+    "scheme_name": "World Class Institutions Scheme",
+    "prompt1": "Indian universities struggling to compete globally due to lack of resources.",
+    "prompt2": "Institutions selected under the scheme receive funding and autonomy to improve standards.",
+    "prompt3": "Universities achieving global recognition, attracting talent, and fostering innovation."
+  },
+  {
+    "scheme_name": "Khelo India – National Programme for Development of Sports",
+    "prompt1": "Talented youth unable to pursue sports due to lack of facilities and support.",
+    "prompt2": "They participate in Khelo India games and receive training under the program.",
+    "prompt3": "Athletes excelling in sports, representing the nation, and inspiring others."
+  },
+  {
+    "scheme_name": "Krishonnati Yojana",
+    "prompt1": "Farmers facing challenges with outdated agricultural practices.",
+    "prompt2": "Government promoting modern techniques and providing support under Krishonnati Yojana.",
+    "prompt3": "Enhanced crop yields and profitability through improved farming methods."
+  },
+  {
+    "scheme_name": "PM Matritva Vandana Yojana",
+    "prompt1": "Pregnant women lacking proper nutrition and healthcare due to financial constraints.",
+    "prompt2": "They register for the scheme to receive maternity benefits and cash incentives.",
+    "prompt3": "Healthier mothers and babies with reduced maternal and infant mortality rates."
+  },
+  {
+    "scheme_name": "PM Ujjwala Yojana",
+    "prompt1": "Women suffering from health issues due to cooking with traditional fuels.",
+    "prompt2": "They apply for a free LPG connection under PM Ujjwala Yojana with simple documentation.",
+    "prompt3": "Women cooking on clean energy stoves, leading to better health and environmental benefits."
+  },
+  {
+    "scheme_name": "PM Fasal Bima Yojana",
+    "prompt1": "Farmers worried about crop losses due to natural calamities.",
+    "prompt2": "They enroll in PM Fasal Bima Yojana paying minimal premiums for crop insurance.",
+    "prompt3": "Compensated for losses, farmers maintain financial stability despite adverse events."
+  },
+  {
+    "scheme_name": "Stand-Up India",
+    "prompt1": "Women and SC/ST entrepreneurs facing difficulty accessing loans for business.",
+    "prompt2": "They approach banks under Stand-Up India to obtain loans for their enterprises.",
+    "prompt3": "Successful business owners contributing to economic growth and job creation."
+  },
+  {
+    "scheme_name": "National Hydrology Project",
+    "prompt1": "Communities affected by inadequate water resource management.",
+    "prompt2": "Implementation of advanced water monitoring systems under the project.",
+    "prompt3": "Improved water availability and planning, benefiting agriculture and daily life."
+  },
+  {
+    "scheme_name": "PM Krishi Sinchai Yojana (PMKSY)",
+    "prompt1": "Farmers facing irrigation issues due to lack of water infrastructure.",
+    "prompt2": "Development of irrigation facilities under PMKSY reaching their fields.",
+    "prompt3": "Enhanced irrigation leading to better crop yields and increased income."
+  },
+  {
+    "scheme_name": "PM Mudra Yojana",
+    "prompt1": "Small entrepreneurs struggling to expand due to lack of funds.",
+    "prompt2": "They apply for collateral-free loans under PM Mudra Yojana from banks.",
+    "prompt3": "Businesses grow successfully, boosting entrepreneurship and employment."
+  },
+  {
+    "scheme_name": "Smart Cities Mission",
+    "prompt1": "Urban residents facing challenges like congestion and inadequate services.",
+    "prompt2": "Cities implementing smart solutions for infrastructure and governance.",
+    "prompt3": "Citizens enjoying improved quality of life in sustainable urban environments."
+  },
+  {
+    "scheme_name": "Digital India",
+    "prompt1": "Citizens in rural areas lacking access to digital services and connectivity.",
+    "prompt2": "Expansion of digital infrastructure and e-governance services under Digital India.",
+    "prompt3": "People accessing online services, bridging the digital divide, and empowering communities."
+  },
+  {
+    "scheme_name": "FAME India Scheme",
+    "prompt1": "Consumers deterred from buying electric vehicles due to high costs.",
+    "prompt2": "Incentives provided under FAME to reduce prices of electric vehicles.",
+    "prompt3": "Increased adoption of EVs, leading to reduced pollution and sustainable transportation."
+  },
+  {
+    "scheme_name": "PM Awas Yojana - Gramin (PMAY-G)",
+    "prompt1": "Homeless rural families living in inadequate housing conditions.",
+    "prompt2": "They apply for assistance under PMAY-G to build pucca (permanent) houses.",
+    "prompt3": "Families residing in safe and secure homes, improving their quality of life."
+  },
+  {
+    "scheme_name": "PM Awas Yojana - Urban (PMAY-U)",
+    "prompt1": "Urban poor residing in slums with substandard living conditions.",
+    "prompt2": "Application for affordable housing under PMAY-U with credit-linked subsidies.",
+    "prompt3": "Beneficiaries moving into affordable homes, leading to better living standards."
+  },
+  {
+    "scheme_name": "Atal Pension Yojana",
+    "prompt1": "Unorganized sector workers lacking pension benefits for old age security.",
+    "prompt2": "Enrollment in Atal Pension Yojana by contributing regularly to the pension fund.",
+    "prompt3": "Assured monthly pension after retirement, providing financial stability."
+  },
+  {
+    "scheme_name": "PM Suraksha Bima Yojana (PMSBY)",
+    "prompt1": "Individuals without any accidental insurance coverage facing financial risk.",
+    "prompt2": "They subscribe to PMSBY by paying a nominal annual premium.",
+    "prompt3": "Coverage against accidental death or disability, offering peace of mind."
+  },
+  {
+    "scheme_name": "PM Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "prompt1": "Low-income individuals lacking life insurance to protect their families.",
+    "prompt2": "Enrollment in PMJJBY with affordable premiums deducted from bank accounts.",
+    "prompt3": "Families secured financially in case of the policyholder's demise."
+  },
+  {
+    "scheme_name": "Unnat Jyoti by Affordable LEDs for All (UJALA)",
+    "prompt1": "Households facing high electricity bills due to inefficient lighting.",
+    "prompt2": "They purchase subsidized LED bulbs under UJALA from designated centers.",
+    "prompt3": "Reduced energy consumption leading to lower bills and environmental benefits."
+  },
+  {
+    "scheme_name": "PM Kaushal Vikas Yojana (PMKVY)",
+    "prompt1": "Unemployed youth lacking skills required by the job market.",
+    "prompt2": "They enroll in vocational training programs under PMKVY.",
+    "prompt3": "Youth gaining employment or starting businesses with new skills."
+  },
+  {
+    "scheme_name": "Heritage City Development and Augmentation Yojana (HRIDAY)",
+    "prompt1": "Heritage cities deteriorating due to lack of maintenance and infrastructure.",
+    "prompt2": "Implementation of HRIDAY for conservation and development of heritage sites.",
+    "prompt3": "Revitalized cities attracting tourism and preserving cultural heritage."
+  },
+  {
+    "scheme_name": "Sukanya Samridhi Yojana",
+    "prompt1": "Parents concerned about the future education and marriage expenses of their girl child.",
+    "prompt2": "They open a Sukanya Samridhi Account in her name with flexible deposits.",
+    "prompt3": "Substantial savings accumulated over time, securing the girl's future."
+  },
+  {
+    "scheme_name": "PM Bhartiya Jan Aushadhi Kendra (PMBJK)",
+    "prompt1": "Patients burdened by high costs of medicines.",
+    "prompt2": "Opening of Jan Aushadhi Kendras providing affordable generic medicines.",
+    "prompt3": "Access to quality medicines at lower prices, reducing healthcare expenses."
+  },
+  {
+    "scheme_name": "Deendayal Antyodaya Yojana",
+    "prompt1": "Urban and rural poor struggling to find sustainable livelihoods.",
+    "prompt2": "Skill development and self-employment training provided under the scheme.",
+    "prompt3": "Improved income opportunities leading to poverty alleviation."
+  },
+  {
+    "scheme_name": "National Career Service (NCS)",
+    "prompt1": "Job seekers facing difficulty accessing employment opportunities.",
+    "prompt2": "They register on the NCS portal for job matching and career counseling.",
+    "prompt3": "Successful employment leading to career growth and economic stability."
+  },
+  {
+    "scheme_name": "Deendayal Upadhyaya Gram Jyoti Yojana",
+    "prompt1": "Villages lacking reliable electricity supply affecting daily life and economy.",
+    "prompt2": "Electrification projects implemented under the scheme reaching remote areas.",
+    "prompt3": "Villagers benefiting from consistent power supply, boosting development."
+  },
+  {
+    "scheme_name": "Atal Mission for Rejuvenation and Urban Transformation (AMRUT)",
+    "prompt1": "Urban areas facing infrastructural deficits like poor water supply and sanitation.",
+    "prompt2": "Cities receive funding under AMRUT for infrastructure development.",
+    "prompt3": "Enhanced urban services improving quality of life for residents."
+  },
+  {
+    "scheme_name": "Swachh Bharat Abhiyan (Clean India Mission)",
+    "prompt1": "Communities suffering from health issues due to poor sanitation and open defecation.",
+    "prompt2": "Construction of toilets and sanitation drives under the mission.",
+    "prompt3": "Cleaner environments leading to better health and hygiene standards."
+  },
+  {
+    "scheme_name": "PM Jan Dhan Yojana",
+    "prompt1": "Unbanked individuals excluded from formal financial systems.",
+    "prompt2": "They open zero-balance bank accounts under the scheme with simplified KYC.",
+    "prompt3": "Financial inclusion enabling access to banking, credit, and insurance services."
+  },
+  {
+    "scheme_name": "Deendayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "prompt1": "Rural youth unemployed due to lack of marketable skills.",
+    "prompt2": "Enrollment in skill training programs provided by DDU-GKY.",
+    "prompt3": "Employment in various sectors, leading to improved livelihoods."
+  },
+  {
+    "scheme_name": "Namami Gange Programme",
+    "prompt1": "Communities affected by pollution in the Ganga river impacting health and ecology.",
+    "prompt2": "Implementation of river cleaning and conservation projects under the program.",
+    "prompt3": "Cleaner river enhancing environmental sustainability and public health."
+  },
+  {
+    "scheme_name": "Rajiv Gandhi Scheme for Empowerment of Adolescent Boys (Saksham)",
+    "prompt1": "Adolescent boys lacking awareness about health and social issues.",
+    "prompt2": "Participation in Saksham programs providing education and life skills.",
+    "prompt3": "Empowered youths contributing positively to society."
+  },
+  {
+    "scheme_name": "Sansad Adarsh Gram Yojana (SAGY)",
+    "prompt1": "Villages lacking holistic development and basic amenities.",
+    "prompt2": "Members of Parliament adopting villages to implement development plans.",
+    "prompt3": "Transformed model villages with improved infrastructure and services."
+  },
+  {
+    "scheme_name": "Rashtriya Uchchatar Shiksha Abhiyan",
+    "prompt1": "State higher education institutions facing quality and infrastructural challenges.",
+    "prompt2": "Funding and reforms provided under the scheme to enhance education quality.",
+    "prompt3": "Improved higher education standards producing skilled graduates."
+  },
+  {
+    "scheme_name": "One Stop Crisis Centre (Sakhi)",
+    "prompt1": "Women facing violence and lacking immediate support services.",
+    "prompt2": "Establishment of Sakhi centers providing medical, legal, and counseling aid.",
+    "prompt3": "Women receiving comprehensive support, leading to safety and rehabilitation."
+  },
+  {
+    "scheme_name": "Direct Benefit Transfer (DBT)",
+    "prompt1": "Leakages and delays in subsidy distribution affecting beneficiaries.",
+    "prompt2": "Subsidies and benefits directly transferred to bank accounts under DBT.",
+    "prompt3": "Efficient and transparent delivery of benefits, reducing corruption."
+  },
+  {
+    "scheme_name": "Scheme for Adolescent Girls (SAG)",
+    "prompt1": "Adolescent girls facing malnutrition and lack of education.",
+    "prompt2": "Provision of nutrition, health education, and life skills training under SAG.",
+    "prompt3": "Improved health and empowerment of girls, enhancing their future prospects."
+  },
+  {
+    "scheme_name": "PM Adarsh Gram Yojana",
+    "prompt1": "Scheduled Caste majority villages lacking basic infrastructure.",
+    "prompt2": "Implementation of integrated development plans under the scheme.",
+    "prompt3": "Villages transformed with better facilities and reduced social disparities."
+  },
+  {
+    "scheme_name": "Promotion of University Research and Scientific Excellence (PURSE)",
+    "prompt1": "Universities facing funding shortages for research activities.",
+    "prompt2": "Granting funds under PURSE to enhance research infrastructure.",
+    "prompt3": "Advanced research outputs contributing to scientific advancements."
+  },
+  {
+    "scheme_name": "Clean Energy Research Initiative (CERI)",
+    "prompt1": "Need for research in sustainable and clean energy solutions.",
+    "prompt2": "Researchers receiving support under CERI for clean energy projects.",
+    "prompt3": "Innovations leading to renewable energy technologies benefiting the environment."
+  },
+  {
+    "scheme_name": "Innovation in Science Pursuit for Inspired Research Programme (INSPIRE)",
+    "prompt1": "Young talent unaware of opportunities in scientific research.",
+    "prompt2": "Students awarded scholarships and mentorship under INSPIRE.",
+    "prompt3": "Increased interest in science careers, fostering a culture of innovation."
+  },
+  {
+    "scheme_name": "Cognitive Science Research Initiative (CSRI)",
+    "prompt1": "Researchers needing support for cognitive science projects.",
+    "prompt2": "Funding and resources provided under CSRI to advance research.",
+    "prompt3": "Breakthroughs in cognitive science benefiting education and healthcare."
+  },
+  {
+    "scheme_name": "Rashtriya Swasthya Bima Yojana (RSBY)",
+    "prompt1": "Below Poverty Line families unable to afford medical treatments.",
+    "prompt2": "Enrollment in RSBY to receive health insurance coverage.",
+    "prompt3": "Access to healthcare services reducing financial burden of illnesses."
+  },
+  {
+    "scheme_name": "National Action Plan for Climate Change (NAPCC)",
+    "prompt1": "Communities vulnerable to the impacts of climate change.",
+    "prompt2": "Implementation of missions under NAPCC focusing on adaptation and mitigation.",
+    "prompt3": "Enhanced resilience and sustainable practices safeguarding the environment."
+  },
+  {
+    "scheme_name": "PM's Employment Generation Programme (PMEGP)",
+    "prompt1": "Unemployed youth seeking to start micro-enterprises but lacking capital.",
+    "prompt2": "They apply for subsidies and loans under PMEGP to establish businesses.",
+    "prompt3": "Successful entrepreneurs generating employment and contributing to the economy."
+  },
+  {
+    "scheme_name": "Gramin Bhandaran Yojana (Rural Godown Scheme)",
+    "prompt1": "Farmers facing post-harvest losses due to inadequate storage facilities.",
+    "prompt2": "Construction of rural godowns with financial support under the scheme.",
+    "prompt3": "Reduced wastage and better price realization for farmers' produce."
+  },
+  {
+    "scheme_name": "Rashtriya Krishi Vikas Yojana (RKVY)",
+    "prompt1": "Agricultural sector needing holistic development and innovation.",
+    "prompt2": "States receive funds under RKVY to implement agriculture development projects.",
+    "prompt3": "Enhanced productivity and income for farmers through modern practices."
+  },
+  {
+    "scheme_name": "National Mission on Nano Science and Technology",
+    "prompt1": "Researchers needing support for advancements in nanotechnology.",
+    "prompt2": "Funding and infrastructure provided under the mission.",
+    "prompt3": "Innovations in nanoscience leading to applications in medicine and industry."
+  },
+  {
+    "scheme_name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "prompt1": "Rural poor lacking employment opportunities leading to poverty.",
+    "prompt2": "They register for MGNREGA to receive guaranteed wage employment.",
+    "prompt3": "Income security and development of rural infrastructure improving livelihoods."
+  },
+  {
+    "scheme_name": "Pooled Finance Development Fund Scheme (PFDF)",
+    "prompt1": "Urban local bodies facing financial constraints for infrastructure projects.",
+    "prompt2": "Accessing pooled funds under PFDF to raise capital from markets.",
+    "prompt3": "Improved urban infrastructure boosting economic growth and services."
+  },
+  {
+    "scheme_name": "National Creche Scheme",
+    "prompt1": "Working mothers in low-income groups lacking childcare support.",
+    "prompt2": "Enrollment of children in creches established under the scheme.",
+    "prompt3": "Safe childcare enabling mothers to work, enhancing family income."
+  },
+  {
+    "scheme_name": "Janani Suraksha Yojana",
+    "prompt1": "Pregnant women facing risks due to home deliveries and lack of medical care.",
+    "prompt2": "They receive cash incentives for institutional deliveries under the scheme.",
+    "prompt3": "Increased safe deliveries leading to reduced maternal and infant mortality."
+  },
+  {
+    "scheme_name": "National Health Mission",
+    "prompt1": "Communities with inadequate access to basic health services.",
+    "prompt2": "Strengthening healthcare infrastructure and services under the mission.",
+    "prompt3": "Improved health outcomes and reduced disease burden in the population."
+  },
+  {
+    "scheme_name": "Livestock Insurance Scheme",
+    "prompt1": "Farmers facing losses due to death of livestock from diseases.",
+    "prompt2": "They insure their livestock under the scheme with government subsidies.",
+    "prompt3": "Compensation received helps farmers recover economically from losses."
+  },
+  {
+    "scheme_name": "Special Accelerated Road Development Programme (SARDP-NE)",
+    "prompt1": "Northeastern regions suffering from poor connectivity affecting development.",
+    "prompt2": "Construction of roads and highways under SARDP-NE.",
+    "prompt3": "Enhanced connectivity boosting trade, tourism, and socio-economic growth."
+  },
+  {
+    "scheme_name": "Kasturba Gandhi Balika Vidyalaya",
+    "prompt1": "Girls from disadvantaged communities lacking access to education.",
+    "prompt2": "They enroll in residential schools established under the scheme.",
+    "prompt3": "Educated girls empowered to improve their lives and communities."
+  },
+  {
+    "scheme_name": "National Pension System",
+    "prompt1": "Individuals concerned about financial security post-retirement.",
+    "prompt2": "They invest in the National Pension System with flexible contributions.",
+    "prompt3": "Accumulated pension wealth ensuring financial independence in old age."
+  },
+  {
+    "scheme_name": "Deendayal Disabled Rehabilitation Scheme",
+    "prompt1": "Persons with disabilities lacking access to rehabilitation services.",
+    "prompt2": "NGOs receive grants under the scheme to provide support and equipment.",
+    "prompt3": "Improved quality of life and inclusion for persons with disabilities."
+  },
+  {
+    "scheme_name": "PM Swasthya Suraksha Yojana (PMSSY)",
+    "prompt1": "Regions lacking advanced tertiary healthcare facilities.",
+    "prompt2": "Establishment of AIIMS-like institutions and upgradation of hospitals under PMSSY.",
+    "prompt3": "Access to quality healthcare services reducing regional disparities."
+  },
+  {
+    "scheme_name": "Sampoorna Grameen Rozgar Yojana",
+    "prompt1": "Rural unemployed needing immediate wage employment.",
+    "prompt2": "Participation in community projects providing employment under the scheme.",
+    "prompt3": "Improved rural infrastructure and livelihoods through wage earnings."
+  },
+  {
+    "scheme_name": "Swadhar Greh Scheme",
+    "prompt1": "Women in difficult circumstances lacking shelter and support.",
+    "prompt2": "Provision of safe housing and rehabilitation services under the scheme.",
+    "prompt3": "Women regain self-reliance and reintegrate into society."
+  },
+  {
+    "scheme_name": "PM Gram Sadak Yojana (PMGSY)",
+    "prompt1": "Villages disconnected due to lack of all-weather roads.",
+    "prompt2": "Construction of roads under PMGSY linking rural areas to markets and services.",
+    "prompt3": "Enhanced connectivity leading to economic growth and accessibility."
+  },
+  {
+    "scheme_name": "Antyodaya Anna Yojana (AAY)",
+    "prompt1": "Poorest households struggling with food insecurity.",
+    "prompt2": "They receive highly subsidized food grains under AAY.",
+    "prompt3": "Improved nutrition and food security for vulnerable families."
+  },
+  {
+    "scheme_name": "Kishore Vaigyanik Protsahan Yojana",
+    "prompt1": "Talented students needing encouragement to pursue research careers.",
+    "prompt2": "They receive scholarships and mentorship under the scheme.",
+    "prompt3": "Cultivation of future scientists contributing to national innovation."
+  },
+  {
+    "scheme_name": "National Social Assistance Programme",
+    "prompt1": "Elderly, widows, and disabled persons without any financial support.",
+    "prompt2": "They receive pensions and assistance under the programme.",
+    "prompt3": "Enhanced social security and dignity for vulnerable individuals."
+  },
+  {
+    "scheme_name": "Members of Parliament Local Area Development Scheme (MPLADS)",
+    "prompt1": "Local areas needing development projects but lacking funds.",
+    "prompt2": "MPs allocate funds under MPLADS for community assets and infrastructure.",
+    "prompt3": "Improved facilities and services enhancing community well-being."
+  },
+  {
+    "scheme_name": "National Scheme on Welfare of Fishermen",
+    "prompt1": "Fishermen lacking basic amenities and insurance coverage.",
+    "prompt2": "Provision of housing, community halls, and insurance under the scheme.",
+    "prompt3": "Enhanced living standards and security for fishermen communities."
+  },
+  {
+    "scheme_name": "National Social Assistance Scheme",
+    "prompt1": "Underprivileged individuals needing social security support.",
+    "prompt2": "Implementation of various assistance programs under the scheme.",
+    "prompt3": "Improved socio-economic conditions for beneficiaries."
+  },
+  {
+    "scheme_name": "Eklavya Model Residential School (EMRS)",
+    "prompt1": "Tribal children lacking access to quality education.",
+    "prompt2": "Enrollment in EMRS providing free residential schooling.",
+    "prompt3": "Educated tribal youth contributing to their communities and nation."
+  },
+  {
+    "scheme_name": "National Tuberculosis Elimination Program (NTEP)",
+    "prompt1": "Communities burdened by high incidence of tuberculosis.",
+    "prompt2": "Implementation of NTEP for free diagnosis and treatment services.",
+    "prompt3": "Reduced TB cases leading to healthier populations."
+  },
+  {
+    "scheme_name": "Voluntary Disclosure of Income Scheme",
+    "prompt1": "Individuals with undisclosed income facing legal uncertainties.",
+    "prompt2": "They declare income under the scheme to regularize tax affairs.",
+    "prompt3": "Compliance leading to peace of mind and contribution to the economy."
+  },
+  {
+    "scheme_name": "Infrastructure Facilities for Judiciary",
+    "prompt1": "Courts facing space constraints and inadequate facilities.",
+    "prompt2": "Development of court infrastructure under the scheme.",
+    "prompt3": "Improved judicial efficiency and access to justice."
+  },
+  {
+    "scheme_name": "National Child Labour Projects (NCLP)",
+    "prompt1": "Children engaged in labor deprived of education.",
+    "prompt2": "Rescue and rehabilitation of child laborers through special schools.",
+    "prompt3": "Children receiving education and integrating into mainstream society."
+  },
+  {
+    "scheme_name": "Interlinking of Rivers Project (ILR)",
+    "prompt1": "Regions facing water scarcity and floods due to uneven river flows.",
+    "prompt2": "Implementation of ILR to redistribute water through river linking.",
+    "prompt3": "Optimized water resources leading to agricultural and ecological benefits."
+  },
+  {
+    "scheme_name": "Urea Subsidy",
+    "prompt1": "Farmers burdened by high costs of fertilizers affecting crop production.",
+    "prompt2": "Government providing urea at subsidized rates.",
+    "prompt3": "Reduced input costs leading to increased agricultural output."
+  },
+  {
+    "scheme_name": "Integrated Child Development Services",
+    "prompt1": "Children under six years suffering from malnutrition and poor health.",
+    "prompt2": "Provision of nutrition, immunization, and pre-school education under ICDS.",
+    "prompt3": "Improved health and development outcomes for young children."
+  },
+  {
+    "scheme_name": "Food Subsidy",
+    "prompt1": "Low-income families struggling to afford basic food necessities.",
+    "prompt2": "They access subsidized food grains through the Public Distribution System.",
+    "prompt3": "Enhanced food security and reduced hunger among vulnerable populations."
+  },
+  {
+    "scheme_name": "National Service Scheme",
+    "prompt1": "Students seeking opportunities for community service and development.",
+    "prompt2": "Participation in NSS activities promoting social welfare and education.",
+    "prompt3": "Youth contributing to nation-building with enhanced social responsibility."
+  },
+  {
+    "scheme_name": "Kerosene Subsidy",
+    "prompt1": "Low-income households relying on kerosene for lighting and cooking.",
+    "prompt2": "Provision of kerosene at subsidized rates through fair price shops.",
+    "prompt3": "Affordable energy access improving quality of life."
+  }
+]
